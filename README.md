@@ -26,16 +26,23 @@ El proyecto está compuesto por tres partes principales:
 1. **Agregar amigos:**
    - Escribe un nombre en el campo de texto y haz clic en el botón "Añadir".
    - El nombre aparecerá en la lista de amigos.
+   - ![Captura de pantalla (5)](https://github.com/user-attachments/assets/1ff8454b-f06c-43ee-81d4-3899912c742e)
+
 
 2. **Mostrar lista actualizada:**
    - Cada vez que agregues un nombre, la lista de amigos se actualizará automáticamente.
+   - ![Captura de pantalla (8)](https://github.com/user-attachments/assets/7768502b-aa2a-4646-a814-ef4cc7b90f82)
+
 
 3. **Sortear amigo:**
    - Haz clic en el botón "Sortear amigo" para seleccionar aleatoriamente un participante de la lista.
    - El resultado del sorteo se mostrará en la parte inferior.
+   - ![Captura de pantalla (7)](https://github.com/user-attachments/assets/af9b02f3-3560-46eb-a493-49cd562b2dd7)
+
 
 ## Requisitos
 - Navegador web moderno (Chrome, Firefox, Edge, Safari).
+
 - No se requiere instalación adicional, ya que todo el proyecto funciona con tecnologías estándar de la web: HTML, CSS y JavaScript.
 
 ## Cómo Ejecutarlo
