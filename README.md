@@ -31,7 +31,7 @@ El proyecto está compuesto por tres partes principales:
 
 2. **Mostrar lista actualizada:**
    - Cada vez que agregues un nombre, la lista de amigos se actualizará automáticamente.
-   - ![Captura de pantalla (8)](https://github.com/user-attachments/assets/7768502b-aa2a-4646-a814-ef4cc7b90f82)
+   - ![Captura de pantalla (8)](https://github.com/user-attachments/assets/914002ef-9226-4613-930c-63c1cb61ab5b)
 
 
 3. **Sortear amigo:**
